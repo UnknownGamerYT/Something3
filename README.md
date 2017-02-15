@@ -1,2 +1,3 @@
-# Something3
-Something3
+# Announcements
+New video
+New video will be uploaded today 
